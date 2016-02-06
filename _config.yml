@@ -1,0 +1,13 @@
+layout_spectrum: 0
+typography_spectrum: 0.707304
+color:
+  saturation: 0.4269603
+  lightness: 0.6192266
+  brandStrength: 0.6916628
+  brandColors:
+    - '#D79155'
+    - '#B44330'
+    - '#31160C'
+    - '#FFC593'
+  rhythmicContrast: 0.6568206
+name: "Evan's Notebooks"
