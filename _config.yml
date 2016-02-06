@@ -1,13 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.707304
 color:
   saturation: 0.4269603
-  lightness: 0.6192266
   brandStrength: 0.6916628
+  lightness: 0.6192266
   brandColors:
-    - '#D79155'
-    - '#B44330'
-    - '#31160C'
-    - '#FFC593'
+    - '#B36631'
+    - '#CE925C'
+    - '#6F391F'
+    - '#556600'
+    - '#C97B93'
   rhythmicContrast: 0.6568206
+layout_spectrum: 0
 name: "Evan's Notebooks"
