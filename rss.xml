@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Evan's Notebooks]]></title>
+        <description><![CDATA[Evan's Notebooks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Feb 2016 18:00:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Tuesday, October 27, 1970 @ 5:51am EDT, I am born @ NY Hospital on East 68th & York in New York, NY with a Mead notebook and Number 2 pencil in my hands. </p>]]></description>
+            <link>undefinedd6edbbc2-9b98-4ed5-948c-ae5338d2b17d/index.html</link>
+            <guid isPermaLink="false">d6edbbc2-9b98-4ed5-948c-ae5338d2b17d</guid>
+            <pubDate>Fri, 12 Feb 2016 18:00:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
