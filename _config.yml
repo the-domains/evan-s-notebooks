@@ -1,3 +1,7 @@
+name: "Evan's Notebooks"
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.707304
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.707304
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4269603
-  brandStrength: 0.6916628
-  lightness: 0.6192266
   brandColors:
     - '#B36631'
     - '#CE925C'
     - '#6F391F'
     - '#556600'
     - '#C97B93'
+  brandStrength: 0.6916628
+  lightness: 0.6192266
+  saturation: 0.4269603
   rhythmicContrast: 0.6568206
-layout_spectrum: 0
-name: "Evan's Notebooks"
+purpose: []
